@@ -1,4 +1,4 @@
-# Water Simulation Project.
+# Water Simulation Project
 
 This project is an initial phase of a simple water simulation using SDL2. The program allows users to interactively place water and solid cells on a grid-based environment, laying the foundation for a physics-based fluid simulation.
 
